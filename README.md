@@ -1,6 +1,6 @@
 # test_repo
-*Title poco fantasioso  
-**Bold**
+# Title poco fantasioso
+**Bold**  
 *Italics*
-#Subsection
-##Subsection, again##
+# Subsection #  
+## Subsection, again ##
